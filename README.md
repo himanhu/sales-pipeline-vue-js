@@ -6,6 +6,12 @@ A sales pipeline prototype with a table and a deal detail page for a 20-person s
 
 [Watch the screen recording on Google Drive](https://drive.google.com/file/d/1b8F1ZiXjnGAqLaBqOUw4Npx-5tvBXwLj/view?usp=sharing).
 
+## Screenshot
+
+![Sales pipeline showing owner filters, teammate updates, completed bulk saves, and adjustable fake API controls](docs/images/sales-pipeline-overview.png)
+
+Filtered deal list with stable row ordering, bulk-save progress, and network simulation controls.
+
 ## Run locally
 
 Requires **Node.js 22+** and npm. Extract the ZIP, open a terminal in `sales-pipeline-vue-js`, and run:
