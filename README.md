@@ -2,6 +2,10 @@
 
 A sales pipeline prototype with a table and a deal detail page for a 20-person sales team handling **50,000 deals**. Built with **Vue 3 Options API, plain JavaScript, and Vite** — no TypeScript, classes, Redux/Pinia/Vuex, login, or backend.
 
+## Demo recording
+
+[Watch the screen recording on Google Drive](https://drive.google.com/file/d/1b8F1ZiXjnGAqLaBqOUw4Npx-5tvBXwLj/view?usp=sharing).
+
 ## Run locally
 
 Requires **Node.js 22+** and npm. Extract the ZIP, open a terminal in `sales-pipeline-vue-js`, and run:
